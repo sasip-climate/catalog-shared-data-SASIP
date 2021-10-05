@@ -5,9 +5,9 @@ The datasets are physically stored on a SUMMER storage unit provided by UGA and 
 
 ## How to get access to the SUMMER storage
 
-  - if you are working on Université Grenoble Alpes campus, through a NFS mounting on your workstation, please send your IP address to data(at)sasip-climate.com to put you on the list
-  - through your GRICAD account, create your account [here](https://perseus.univ-grenoble-alpes.fr/create-account/portal) and ask to be part of sasip group at data(at)sasip-climate.com, then when logged to dahu nodes you can access to storage at /summer/sasip 
-  - for download only : https://ige-meom-opendap.univ-grenoble-alpes.fr/thredds/catalog/meomopendap/extract/SASIP/catalog.html, more informations on how to download multiples files are [here]
+  - if you are working on Université Grenoble Alpes campus you can access it through a NFS mounting on your workstation, please send your IP address to data(at)sasip-climate.com to put you on the list
+  - through your GRICAD account, more informations [here]()create your account [here](https://github.com/sasip-climate/catalog-shared-data-SASIP/blob/main/gricad.md) 
+  - for download only : https://ige-meom-opendap.univ-grenoble-alpes.fr/thredds/catalog/meomopendap/extract/SASIP/catalog.html, more informations on how to download multiples files are [here](https://github.com/sasip-climate/catalog-shared-data-SASIP/blob/main/download-opendap.md)
   
 ## What is available on the SUMMER storage
 
