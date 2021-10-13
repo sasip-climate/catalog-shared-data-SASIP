@@ -4,7 +4,7 @@
 
 These forcings gather all surface atmospheric fields required to estimate surface *air-sea* and *air-ice* fluxes of momentum, heat and freshwater, by means of bulk formulae.
 
-These fields are:
+These fields can be:
 - Wind speed vector at 10m (`u10m,v10m`) `[m/s]`
 - Air temperature at 2m (`t2m`) `[K]`
 - Sea-level atmospheric pressure (`msl`) `[Pa]`
@@ -16,16 +16,14 @@ These fields are:
 
 ### Atmo forcings available on SUMMER
 
-- Hourly ERA5 over the Arctic: `model-forcings/atmo_forcing/ERA5_Arctic/`
-
-  - [ERAinterim forcings 3h frequency from 2012 to 2020](https://github.com/sasip-climate/catalog-shared-data-SASIP/blob/main/forcings/ERAinterim-2012-2020-3h.md)
+- [Hourly ERA5 over the Arctic](https://github.com/sasip-climate/catalog-shared-data-SASIP/blob/main/forcings/ERA5-1h-Arctic.md): `model-forcings/atmo_forcing/ERA5_Arctic/`
 
 
 
 
 ## Ocean forcings
 
-Bla bla bla.
+These forcings gather all oceanic fields required by neXtSIM model to run.
 
 ### Ocean forcings available on SUMMER
 
