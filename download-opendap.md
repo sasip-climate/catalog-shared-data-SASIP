@@ -5,5 +5,10 @@ The adress is : https://ige-meom-opendap.univ-grenoble-alpes.fr/thredds/catalog/
   - to download multiples files, use wget, for instance :
   
 ```
-wget --no-check-certificate https://ige-meom-opendap.univ-grenoble-alpes.fr/thredds/fileServer/meomopendap/extract/NATL60-CJM165/1h/gridT/NATL60-CJM165_y20{12..13}m{01..12}d{01..31}.1h_gridT.nc
+wget --no-check-certificate https://ige-meom-opendap.univ-grenoble-alpes.fr/thredds/fileServer/meomopendap/extract/SASIP/model-forcings/atmo_forcing/ERA5_Arctic/ERA5_v10_y{2011..2020}.nc
 ```
+
+```
+for var in u10 v10 t2m q2m d2m mtpr msr msl msdwlwrf; do wget --no-check-certificate https://ige-meom-opendap.univ-grenoble-alpes.fr/thredds/fileServer/meomopendap/extract/SASIP/model-forcings/atmo_forcing/ERA5_Arctic/ERA5_v10_y{2011..2020}.nc; done
+```
+
