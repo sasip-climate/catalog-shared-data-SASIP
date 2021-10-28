@@ -9,6 +9,6 @@ wget https://ige-meom-opendap.univ-grenoble-alpes.fr/thredds/fileServer/meomopen
 ```
 
 ```
-for var in u10 v10 t2m q2m d2m mtpr msr msl msdwlwrf; do wget https://ige-meom-opendap.univ-grenoble-alpes.fr/thredds/fileServer/meomopendap/extract/SASIP/model-forcings/atmo_forcing/ERA5_Arctic/ERA5_v10_y{2011..2020}.nc; done
+for var in u10 v10 t2m q2m d2m mtpr msr msl msdwlwrf; do wget https://ige-meom-opendap.univ-grenoble-alpes.fr/thredds/fileServer/meomopendap/extract/SASIP/model-forcings/atmo_forcing/ERA5_Arctic/ERA5_${var}_y{2011..2020}.nc; done
 ```
 
