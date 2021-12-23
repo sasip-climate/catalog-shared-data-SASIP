@@ -3,12 +3,6 @@
 Here you will find all the informations on the data that are shared among SASIP participants.
 The datasets are physically stored on a SUMMER storage unit provided by UGA and paid by SASIP.
 
-## How to get access to the SUMMER storage
-
-  - if you are working on Université Grenoble Alpes campus you can access it through a NFS mounting on your workstation, please send your IP address to data(at)sasip-climate.com to put you on the list
-  - through your GRICAD account, more informations [here](https://github.com/sasip-climate/catalog-shared-data-SASIP/blob/main/gricad.md) 
-  - for download only : https://ige-meom-opendap.univ-grenoble-alpes.fr/thredds/catalog/meomopendap/extract/SASIP/catalog.html, more informations on how to download multiples files are [here](https://github.com/sasip-climate/catalog-shared-data-SASIP/blob/main/download-opendap.md)
-  
 ## What is available on the SUMMER storage
 
 Here is a curated list of the data shared :
@@ -17,6 +11,18 @@ Here is a curated list of the data shared :
   - [Forcing datasets](https://github.com/sasip-climate/catalog-shared-data-SASIP/blob/main/forcings.md)
   - [Model outputs](https://github.com/sasip-climate/catalog-shared-data-SASIP/blob/main/outputs.md)
   - [Observation datasets](https://github.com/sasip-climate/catalog-shared-data-SASIP/blob/main/observations.md)
+
+Some other datasets that are not stored on SUMMER but could be of interest for SASIP participants :
+
+  - [Wave-in-ice Statistics from IS-2](https://doi.pangaea.de/10.1594/PANGAEA.918199)
+
+## How to get access to the SUMMER storage
+
+  - if you are working on Université Grenoble Alpes campus you can access it through a NFS mounting on your workstation, please send your IP address to data(at)sasip-climate.com to put you on the list
+  - through your GRICAD account, more informations [here](https://github.com/sasip-climate/catalog-shared-data-SASIP/blob/main/gricad.md) 
+  - for download only : https://ige-meom-opendap.univ-grenoble-alpes.fr/thredds/catalog/meomopendap/extract/SASIP/catalog.html, more informations on how to download multiples files are [here](https://github.com/sasip-climate/catalog-shared-data-SASIP/blob/main/download-opendap.md)
+  
+
 
 ## How to share a dataset on the SUMMER storage
 
