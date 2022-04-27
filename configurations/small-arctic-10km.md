@@ -2,7 +2,7 @@
 
 For year 2006 : from February, 1st to December, 28th 
 
-Available on SUMMER at : model-configurations/nextsim/small_arctic_10km or directly on the [opendap](https://ige-meom-opendap.univ-grenoble-alpes.fr/thredds/catalog/meomopendap/extract/SASIP/model-configurations/nextsim/small_arctic_10km/catalog.html) for download only
+Available on SUMMER at : `model-configurations/nextsim/small_arctic_10km` or directly on the [opendap](https://ige-meom-opendap.univ-grenoble-alpes.fr/thredds/catalog/meomopendap/extract/SASIP/model-configurations/nextsim/small_arctic_10km/catalog.html) for download only
 
 You can find in :
    - scripts :
