@@ -3,13 +3,14 @@
 ## neXtSIM configuration files
 
 To run neXtSIM you need several files :
-     -  a mesh file that represents the grid at the initial step
-     -  the bathymetry file
-     -  atmospheric forcing files
-     -  oceanic forcing files
+   -  a mesh file that represents the grid at the initial step
+   -  the bathymetry file
+   -  atmospheric forcing files
+   -  oceanic forcing files
+
 And also some scripts to run a simulation :
-     - a namelist (cfg file)
-     - the run script (bash script)
+   - a namelist (cfg file)
+   - the run script (bash script)
      
 ### neXtSIM configurations available on SASIP storage
 
