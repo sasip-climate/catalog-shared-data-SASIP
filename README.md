@@ -11,7 +11,7 @@ Here is a curated list of the data shared :
   - [Forcing datasets](https://github.com/sasip-climate/catalog-shared-data-SASIP/blob/main/forcings.md)
   - [Model outputs](https://github.com/sasip-climate/catalog-shared-data-SASIP/blob/main/outputs.md)
   - [Observation datasets](https://github.com/sasip-climate/catalog-shared-data-SASIP/blob/main/observations.md)
-  - [Machine learning data](https://github.com/sasip-climate/catalog-shared-data-SASIP/blob/main/machine-learning-data.md
+  - [Machine learning data](https://github.com/sasip-climate/catalog-shared-data-SASIP/blob/main/machine-learning-data.md)
 
 Some other datasets that are not stored on SUMMER but could be of interest for SASIP participants :
 
