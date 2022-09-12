@@ -2,4 +2,3 @@
 
 ## Training Data
 
-### Dataset n°1
