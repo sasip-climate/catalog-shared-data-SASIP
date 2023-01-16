@@ -1,21 +1,11 @@
 # Catalog of shared data between SASIP participants
 
 Here you will find all the informations on the data that are shared among SASIP participants.
-The datasets are physically stored on a SUMMER storage unit provided by UGA and paid by SASIP.
+The datasets are either physically stored on a SUMMER storage unit provided by UGA and paid by SASIP, or stored elsewhere and the link to it is provided.
 
 ## What is available on the SUMMER storage
 
-Here is a curated list of the data shared :
-
-  - [Configuration files](https://github.com/sasip-climate/catalog-shared-data-SASIP/blob/main/configuration.md)
-  - [Forcing datasets](https://github.com/sasip-climate/catalog-shared-data-SASIP/blob/main/forcings.md)
-  - [Model outputs](https://github.com/sasip-climate/catalog-shared-data-SASIP/blob/main/outputs.md)
-  - [Observation datasets](https://github.com/sasip-climate/catalog-shared-data-SASIP/blob/main/observations.md)
-  - [Machine learning data](https://github.com/sasip-climate/catalog-shared-data-SASIP/blob/main/machine-learning-data.md)
-
-Some other datasets that are not stored on SUMMER but could be of interest for SASIP participants :
-
-  - [Wave-in-ice Statistics from IS-2](https://doi.pangaea.de/10.1594/PANGAEA.918199)
+Click [here](catalog-details.md) to see a detailed list of datasets that can be useful to SASIP participants.
 
 ## How to get access to the SUMMER storage
 
