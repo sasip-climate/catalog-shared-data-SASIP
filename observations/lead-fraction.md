@@ -27,3 +27,5 @@ Rohrs, J. and Kaleschke, L.: An algorithm to detect sea ice leads by using AMSR-
 Rohrs, J., Kaleschke, L., Br?han, D., and Siligam, P. K.: Corrigendum to "An algorithm to detect sea ice leads by using AMSR-E passive microwave imagery" published in The Cryosphere, 6, 343?352, 2012, The Cryosphere, 6, 365-365, doi:10.5194/tc-6-365-2012, 2012.
 
 Ivanova, N., Rampal, P., and Bouillon, S.: Error assessment of satellite-derived lead fraction in the Arctic, The Cryosphere, 10, 585-595, doi:10.5194/tc-10-585-2016, 2016.
+
+*contact : einar.olason(at)nersc.no*
