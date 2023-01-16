@@ -6,9 +6,11 @@ Here you will find a list of datasets that can be useful to SASIP participants a
 ## Modelling datasets
 
 ### Configuration files
-#### neXtSIM configuration files
 
+<details>
+  <summary><strong>neXtSIM configuration files</strong></summary>
 - [Small Arctic 10km resolution](configurations/small-arctic-10km.md)
+</details>
 
 ### Grids
 
