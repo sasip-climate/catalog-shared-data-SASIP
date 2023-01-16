@@ -2,7 +2,7 @@
 
 Here you will find a list of datasets that can be useful to SASIP participants and where to find them easily, either on SASIP's unit storage, either on another platform.
 
-*Click on the arrows to see all the datasets*
+*Click on the arrows to develop the drop down menu with all the datasets*
 
 ## Modelling datasets
 
