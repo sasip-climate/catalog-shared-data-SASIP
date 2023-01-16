@@ -2,6 +2,7 @@
 
 Here you will find a list of datasets that can be useful to SASIP participants and where to find them easily, either on SASIP's unit storage, either on another platform.
 
+*Click on the arrows to see all the datasets*
 
 ## Modelling datasets
 
@@ -54,6 +55,7 @@ Here you will find a list of datasets that can be useful to SASIP participants a
 
 <details>
   <summary><strong>WW3-neXtSIM coupled runs</strong></summary>
+  
   - [WW3NX25](outputs/WW3-neXtSIM.md)
 
 </details>
@@ -62,6 +64,7 @@ Here you will find a list of datasets that can be useful to SASIP participants a
 
 <details>
   <summary><strong>Satellite and satellite-derived datasets</strong></summary>
+  
   - [AMSR-E lead fraction](observations/lead-fraction.md)
 
 </details>
