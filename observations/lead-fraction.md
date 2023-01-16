@@ -28,4 +28,4 @@ Rohrs, J., Kaleschke, L., Br?han, D., and Siligam, P. K.: Corrigendum to "An alg
 
 Ivanova, N., Rampal, P., and Bouillon, S.: Error assessment of satellite-derived lead fraction in the Arctic, The Cryosphere, 10, 585-595, doi:10.5194/tc-10-585-2016, 2016.
 
-*contact : einar.olason(at)nersc.no*
+**contact : einar.olason(at)nersc.no**
