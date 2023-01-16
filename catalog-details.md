@@ -66,6 +66,7 @@ Here you will find a list of datasets that can be useful to SASIP participants a
   <summary><strong>Satellite and satellite-derived datasets</strong></summary>
   
   - [AMSR-E lead fraction](observations/lead-fraction.md)
+  - [Wave-in-ice Statistics from IS-2](https://doi.pangaea.de/10.1594/PANGAEA.918199)
 
 </details>
 
