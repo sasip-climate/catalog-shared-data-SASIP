@@ -1,4 +1,4 @@
-# Observations datasets available on SUMMER storage
+# Observations datasets 
 
-- Satellite
+- [Satellite](observations/satellite.md)
 - In-situ
