@@ -72,3 +72,9 @@ Here you will find a list of datasets that can be useful to SASIP participants a
 
 ## Machine Learning datasets
 
+<details>
+  <summary><strong>Training and testing datasets </strong></summary>
+  
+  - [Melt pond inputs and outputs from Icepack, Arctic region](machine-learning/icepack-melt.md)
+
+</details>
