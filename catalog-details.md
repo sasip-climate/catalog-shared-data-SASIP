@@ -16,37 +16,55 @@ Here you will find a list of datasets that can be useful to SASIP participants a
 
 ### Grids
 
-#### Grid examples for nextsim_dg
-
+<details>
+  <summary><strong>Grid examples for nextsim_dg</strong></summary>
+  
 - [CREG](grids/CREG.md) 
 - [NH_PS](grids/NH_PS.md)
 - [SH_PS](grids/SH_PS.md)
 - [Split_ORCA2](grids/split_orca2.md) 
- 
+
+</details>
+
 ### Forcing datasets
 
-#### Atmospheric forcings datasets
+<details>
+  <summary><strong>Atmospheric forcings datasets</strong></summary>
 
  - [ERA5 for Arctic region](forcings/ERA5-1h-Arctic.md)
 
-#### Oceanic forcings datasets
+</details>
+
+<details>
+  <summary><strong>Oceanic forcings datasets</strong></summary>
 
  - [GLORYS12 for Arctic region](forcings/GLORYS12-1d-Arctic.md)
 
+</details>
+
 ### Model outputs
 
-#### OPA-neXtSIM coupled runs
+<details>
+  <summary><strong>OPA-neXtSIM coupled runs</strong></summary>
 
   - [CREG025_NXS-LBC400](outputs/OPA-neXtSIM_CREG025.md)
   - [NANUK025-ILBOXE140](outputs/NANUK025.md)
 
-#### WW3-neXtSIM coupled runs
+</details>
+
+<details>
+  <summary><strong>WW3-neXtSIM coupled runs</strong></summary>
   - [WW3NX25](outputs/WW3-neXtSIM.md)
+
+</details>
 
 ## Observation datasets
 
-### Satellite and satellite-derived datasets
+<details>
+  <summary><strong>Satellite and satellite-derived datasets</strong></summary>
   - [AMSR-E lead fraction](observations/lead-fraction.md)
 
-### Machine Learning datasets
+</details>
+
+## Machine Learning datasets
 
