@@ -5,24 +5,23 @@ Here you will find a list of datasets that can be useful to SASIP participants a
 
 ### Modelling datasets
 
-## [Configuration files](configuration.md)
-
+## Configuration files
 ### neXtSIM configuration files
 
 - [Small Arctic 10km resolution](configurations/small-arctic-10km.md)
 
 ## Grids
 
-### [Grid examples for nextsim_dg](grids.md)
+### Grid examples for nextsim_dg
 
 - [CREG](grids/CREG.md) 
 - [NH_PS](grids/NH_PS.md)
 - [SH_PS](grids/SH_PS.md)
 - [Split_ORCA2](grids/split_orca2.md) 
  
-## [Forcing datasets](forcings.md)
+## Forcing datasets
 
-### [Atmospheric forcings datasets](forcings/atmo-forcings.md)
+### Atmospheric forcings datasets
 
  - [ERA5 for Arctic region](forcings/ERA5-1h-Arctic.md)
 
@@ -30,7 +29,7 @@ Here you will find a list of datasets that can be useful to SASIP participants a
 
  - [GLORYS12 for Arctic region](forcings/GLORYS12-1d-Arctic.md)
 
-## [Model outputs](outputs.md)
+## Model outputs
 
 ### OPA-neXtSIM coupled runs
 
