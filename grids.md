@@ -1,25 +1,25 @@
 # Grid examples for neXtSIM_DG
 
-This directory contains several grid files that come from previous work with the old neXtSIM and NEMO, as well as some grids proposed for neXtSIM_DG. They are all netCDF files, but the content is subtly different, depending on the grid. Currently we have the following sub-directories and files:
+[This directory](https://ige-meom-opendap.univ-grenoble-alpes.fr/thredds/catalog/meomopendap/extract/SASIP/grids/catalog.html) contains several grid files that come from previous work with the old neXtSIM and NEMO, as well as some grids proposed for neXtSIM_DG. They are all netCDF files, but the content is subtly different, depending on the grid. Currently we have the following sub-directories and files:
 
- - CREG (regional North Atlantic-Arctic grid):
+ - [CREG](https://ige-meom-opendap.univ-grenoble-alpes.fr/thredds/catalog/meomopendap/extract/SASIP/grids/CREG/catalog.html) (regional North Atlantic-Arctic grid):
    - NEMO.nc
    - bathy_meter.nc
    - coordinates.nc
 
- - NH_PS (regional Arctic grid on a polar stereographic projection):
+ - [NH_PS](https://ige-meom-opendap.univ-grenoble-alpes.fr/thredds/catalog/meomopendap/extract/SASIP/grids/NH_PS/catalog.html) (regional Arctic grid on a polar stereographic projection):
    - 12.5km_NH.nc
    - 25km_NH.nc
    - 3.125km_NH.nc
    - 6.25km_NH.nc
 
- - SH_PS (regional Antarctic grid on a polar stereographic projection):
+ - [SH_PS](https://ige-meom-opendap.univ-grenoble-alpes.fr/thredds/catalog/meomopendap/extract/SASIP/grids/SH_PS/catalog.html) (regional Antarctic grid on a polar stereographic projection):
    - 12.5km_SH_circle.nc
    - 25km_SH_circle.nc
    - 50km_SH_circle.nc
    - 6.25km_SH_circle.nc
 
- - Split_ORCA2 (global ORCA2 grid, split between northern and southern hemispheres):
+ - [Split_ORCA2](https://ige-meom-opendap.univ-grenoble-alpes.fr/thredds/catalog/meomopendap/extract/SASIP/grids/Split_ORCA2/catalog.html) (global ORCA2 grid, split between northern and southern hemispheres):
    - NH_ORCA_R2_zps_domcfg.nc
    - SH_ORCA_R2_zps_domcfg.nc
 
