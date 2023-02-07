@@ -9,9 +9,9 @@
 
 You can set up a direct access to dahu via [this procedure](https://gricad-doc.univ-grenoble-alpes.fr/en/hpc/connexion/#connecting-to-the-gateways-without-a-password) so that ssh and scp takes only one line of command, a simplified version is reported below :
 
-  - Check that you should be able to connect to the bastions : ```ssh <your-login>@rotule.u-ga.fr``` and ```ssh <your-login>@trinity.u-ga.fr```
+  - Check that you should be able to connect to the bastions : ```ssh <your-login>@rotule.u-ga.fr``` and ```ssh <your-login>@trinity.u-ga.fr``` (replace <your-login> with your perseus account)
   - Once connected on one of the bastions, check that you can connect to dahu (for CPU) : ```ssh dahu``` or bigfoot (for GPU) ```ssh bigfoot```
-  - To connect directly to dahu or bigfoot, add the following lines to your ```.ssh/config``` (replace <your-login> with your perseus account ):
+  - To connect directly to dahu or bigfoot, add the following lines to your ```.ssh/config``` x:
 
 ```bash
 Host *
