@@ -11,7 +11,7 @@ You can set up a direct access to dahu via [this procedure](https://gricad-doc.u
 
   - Check that you should be able to connect to the bastions : ```ssh <your-login>@rotule.u-ga.fr``` and ```ssh <your-login>@trinity.u-ga.fr```
   - Once connected on one of the bastions, check that you can connect to dahu (for CPU) : ```ssh dahu``` or bigfoot (for GPU) ```ssh bigfoot```
-  - To connect directly to dahu or bigfoot, add the following lines to your ```.ssh/config```:
+  - To connect directly to dahu or bigfoot, add the following lines to your ```.ssh/config``` (replace <your-login> with your perseus account ):
 
 ```bash
 Host *
