@@ -25,7 +25,7 @@ Host *.ciment
   - Now you should be able to connect to dahu directly with ```ssh dahu.ciment```
   - To connect without typing your password, you can set up a SSH key :
     - on your local machine create the ssh key : ```ssh-keygen```
-    - copy the public key to the bastions : ```ssh-copy-id -i .ssh/id_rsa.pub <your-login>@rotule.u-ga.fr:``` and  ```ssh-copy-id -i .ssh/id_rsa.pub <your-login>@trinity.u-ga.fr:``` and to the clusters : ```ssh-copy-id -i .ssh/id_rsa.pub <your-login>@dahu.ciment:
+    - copy the public key to the bastions : ```ssh-copy-id -i .ssh/id_rsa.pub <your-login>@rotule.u-ga.fr:``` and  ```ssh-copy-id -i .ssh/id_rsa.pub <your-login>@trinity.u-ga.fr:``` and to the clusters : ```ssh-copy-id -i .ssh/id_rsa.pub <your-login>@dahu.ciment:```
 
 
 
