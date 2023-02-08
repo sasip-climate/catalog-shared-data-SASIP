@@ -16,7 +16,11 @@ You can set up a direct access to dahu via [this procedure](https://gricad-doc.u
 ```bash
 Host *
   ServerAliveInterval 30
-
+  AddKeysToAgent yes
+  IdentityFile ~/.ssh/id_rsa
+  ForwardX11 yes
+  TCPKeepAlive yes
+ 
 Host *.ciment
   User <your-login>
   ProxyCommand ssh -q <your-login>@access-gricad.univ-grenoble-alpes.fr "nc -w 60 `basename %h .ciment` %p"
