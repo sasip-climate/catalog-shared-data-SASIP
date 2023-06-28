@@ -67,6 +67,7 @@ Here you will find a list of datasets that can be useful to SASIP participants a
   
   - [AMSR-E lead fraction](observations/lead-fraction.md)
   - [Wave-in-ice Statistics from IS-2](https://doi.pangaea.de/10.1594/PANGAEA.918199)
+  - [CS2-SMOS](observations/cs2smos_v2.5.md)
 
 </details>
 
