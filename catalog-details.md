@@ -49,7 +49,7 @@ Here you will find a list of datasets that can be useful to SASIP participants a
   <summary><strong>OPA-neXtSIM coupled runs</strong></summary>
 
   - [CREG025_NXS-LBC400](outputs/OPA-neXtSIM_CREG025.md)
-  - [NANUK025-ILBOXE140](outputs/NANUK025.md)
+  - [OPA-neXtSIM_CREG025-ILBOXE140](outputs/OPA-neXtSIM_CREG025.md)
 
 </details>
 
