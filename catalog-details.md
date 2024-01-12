@@ -77,5 +77,6 @@ Here you will find a list of datasets that can be useful to SASIP participants a
   <summary><strong>Training and testing datasets </strong></summary>
   
   - [Melt pond inputs and outputs from Icepack, Arctic region](machine-learning/icepack-melt.md)
+  - [neXtSIM surrogate model training and testing dataset](/machine-learning/surrogate-nextsim.md)
 
 </details>
