@@ -60,6 +60,12 @@ Here you will find a list of datasets that can be useful to SASIP participants a
 
 </details>
 
+<details>
+  <summary><strong>FloeDyn simulations</strong></summary>
+  
+  - [Videos](outputs/floedyn-videos.md)
+
+</details>
 ## Observation datasets
 
 <details>
