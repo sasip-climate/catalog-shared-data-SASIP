@@ -26,7 +26,7 @@ Here you will find a list of datasets that can be useful to SASIP participants a
 <details>
   <summary><strong>NEMO configuration files</strong></summary>
   
-- [NANUK 4° 31 levels](configurations/NANUK4.L31-I.md)
+- [NANUK4 : Arctic at 1/4° resolution](configurations/NANUK4.L31-I.md)
   
 </details>
 
@@ -56,6 +56,9 @@ Here you will find a list of datasets that can be useful to SASIP participants a
   <summary><strong>Oceanic forcings datasets</strong></summary>
 
  - [GLORYS12 for Arctic region](forcings/GLORYS12-1d-Arctic.md)
+ - [GLORYS12 for Southern region](forcings/GLORYS12-1d-Southern.md)
+ - [GLORYS12 forecast for Southern region](forcings/GLORYS12-forecast-1d-Southern.md)
+ - [TOPAZ4 for Arctic region](forcings/TOPAZ4-1d-Arctic.md)
 
 </details>
 
