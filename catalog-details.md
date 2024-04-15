@@ -15,6 +15,22 @@ Here you will find a list of datasets that can be useful to SASIP participants a
   
 </details>
 
+<details>
+  <summary><strong>neXtSIM-DG configuration files</strong></summary>
+  
+- [Compiling Environment](configurations/env-nextsimdg.md)
+- [June 2023 demonstration configuration](configurations/june23-demo.md)
+  
+</details>
+
+<details>
+  <summary><strong>NEMO configuration files</strong></summary>
+  
+- [NANUK 4° 31 levels](configurations/NANUK4.L31-I.md)
+  
+</details>
+
+
 ### Grids
 
 <details>
