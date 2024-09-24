@@ -29,7 +29,9 @@ Host *.ciment
   - Now you should be able to connect to dahu directly with ```ssh dahu.ciment``` or to bigfoot with ```ssh bigfoot.ciment```
   - To connect without typing your password, you can set up a SSH key :
     - on your local machine create the ssh key : ```ssh-keygen```
-    - copy the public key to the bastions : ```ssh-copy-id -i .ssh/id_rsa.pub <your-login>@rotule.u-ga.fr:``` and  ```ssh-copy-id -i .ssh/id_rsa.pub <your-login>@trinity.u-ga.fr:``` and to the clusters : ```ssh-copy-id -i .ssh/id_rsa.pub <your-login>@dahu.ciment:``` or ```ssh-copy-id -i .ssh/id_rsa.pub <your-login>@bigfoot.ciment:```
+    - copy the public key to the bastions, it is the file in .ssh that ends with .pub, it can be id_rsa.pub or id_ed25519.pub :
+    
+```ssh-copy-id -i .ssh/KEY.pub <your-login>@rotule.u-ga.fr:``` and  ```ssh-copy-id -i .ssh/KEY.pub <your-login>@trinity.u-ga.fr:``` and to the clusters : ```ssh-copy-id -i .ssh/KEY.pub <your-login>@dahu.ciment:``` or ```ssh-copy-id -i .ssh/KEY.pub <your-login>@bigfoot.ciment:```
 
 
 ## How to share a dataset on the SUMMER storage
