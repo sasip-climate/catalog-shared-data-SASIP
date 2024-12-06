@@ -11,7 +11,7 @@ These videos have been produced from [FloeDyn](https://github.com/FloeDynHub/Flo
     - No zoom : [out_IMVZ6_jerome_lighthouse_2800f_no_crack_no_zoom.mp4](https://ige-meom-opendap.univ-grenoble-alpes.fr/thredds/catalog/meomopendap/extract/SASIP/model-outputs/floedyn-simulations/videos/catalog.html?dataset=meomscanpublic/SASIP/model-outputs/floedyn-simulations/videos/out_IMVZ6_jerome_lighthouse_2800f_no_crack_no_zoom.mp4)
     - Zoom 200x200 : [out_IMVZ6_jerome_lighthouse_2800f_no_crack_zoom_200.mp4](https://ige-meom-opendap.univ-grenoble-alpes.fr/thredds/catalog/meomopendap/extract/SASIP/model-outputs/floedyn-simulations/videos/catalog.html?dataset=meomscanpublic/SASIP/model-outputs/floedyn-simulations/videos/out_IMVZ6_jerome_lighthouse_2800f_no_crack_zoom_200.mp4)
     - Zoom 100x100 : [out_IMVZ6_jerome_lighthouse_2800f_no_crack_zoom_100.mp4](https://ige-meom-opendap.univ-grenoble-alpes.fr/thredds/catalog/meomopendap/extract/SASIP/model-outputs/floedyn-simulations/videos/catalog.html?dataset=meomscanpublic/SASIP/model-outputs/floedyn-simulations/videos/out_IMVZ6_jerome_lighthouse_2800f_no_crack_zoom_100.mp4)
-
-
+out_Td9TL_lighthouse_mpi_pbc_bar_cumul.mp4
+  - Lighthouse VS 2800 realistic floes - Periodic Boundary Conditions run with MPI (2x2 grid) - Dual plot with bar chart for force cumul arount the lighthouse : [out_Td9TL_lighthouse_mpi_pbc_bar_cumul.mp4](https://ige-meom-opendap.univ-grenoble-alpes.fr/thredds/catalog/meomopendap/extract/SASIP/model-outputs/floedyn-simulations/videos/catalog.html?dataset=meomscanpublic/SASIP/model-outputs/floedyn-simulations/videos/out_Td9TL_lighthouse_mpi_pbc_bar_cumul.mp4)
 
 *contact Quentin Jouet (at) montagnebleue.fr*
