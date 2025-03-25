@@ -1,6 +1,6 @@
 # June 2023 demonstration configuration for neXtSIM-DG
 
-Available on SUMMER @GRICAD : `/summer/sasip/model-configurations/neXtSIM-DG/demo-june2023` or directly on the [opendap]()
+Available on SUMMER @GRICAD : `/summer/sasip/model-configurations/neXtSIM-DG/demo-june2023` or directly on the [opendap](https://ige-meom-opendap.univ-grenoble-alpes.fr/thredds/catalog/meomopendap/extract/SASIP/model-configurations/neXtSIM-DG/demo-june2023/catalog.html)
 
 The available files are :
   - the configuration file config_june23.cfg
