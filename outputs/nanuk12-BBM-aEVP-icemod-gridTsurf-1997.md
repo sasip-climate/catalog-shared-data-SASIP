@@ -442,3 +442,82 @@ variables:
        ice_cover:missing_value = 1.e+20f ;
        ice_cover:coordinates = "time_centered nav_lat nav_lon" ;
 
+MASK AND GRID FILE
+
+netcdf mesh_mask_NANUK12_L31_4.2 {
+dimensions:
+	x = 1475 ;
+	y = 1682 ;
+	nav_lev = 31 ;
+	time_counter = UNLIMITED ; // (1 currently)
+variables:
+	float nav_lon(y, x) ;
+	float nav_lat(y, x) ;
+	float nav_lev(nav_lev) ;
+	float time_counter(time_counter) ;
+	byte tmask(time_counter, nav_lev, y, x) ;
+ "sea-land mask for T-grid"
+	byte umask(time_counter, nav_lev, y, x) ;
+  "sea-land mask for U-grid"
+	byte vmask(time_counter, nav_lev, y, x) ;
+  "sea-land mask for V-grid"
+	byte fmask(time_counter, nav_lev, y, x) ;
+  "sea-land mask for F-grid"
+	byte tmaskutil(time_counter, y, x) ;
+  "surface sea-land mask for T-grid"
+	byte umaskutil(time_counter, y, x) ;
+  "surface sea-land mask for U-grid"
+	byte vmaskutil(time_counter, y, x) ;
+  "surface sea-land mask for V-grid"
+	double glamt(time_counter, y, x) ;
+  "geographic longitude for T-grid"
+	double glamu(time_counter, y, x) ;
+  "geographic longitude for U-grid"
+	double glamv(time_counter, y, x) ;
+  "geographic longitude for V-grid"
+	double glamf(time_counter, y, x) ;
+  "geographic longitude for F-grid"
+	double gphit(time_counter, y, x) ;
+  "geographic latitude for T-grid"
+	double gphiu(time_counter, y, x) ;
+  "geographic latitude for T-grid"
+	double gphiv(time_counter, y, x) ;
+  "geographic latitude for T-grid"
+	double gphif(time_counter, y, x) 
+  "geographic latitude for T-grid"
+	double e1t(time_counter, y, x) ;
+  "zonal scale factor for T-grid"
+	double e1u(time_counter, y, x) ;
+  "zonal scale factor for U-grid"
+	double e1v(time_counter, y, x) ;
+  "zonal scale factor for V-grid"
+	double e1f(time_counter, y, x) ;
+  "zonal scale factor for F-grid"
+	double e2t(time_counter, y, x) ;
+  "meridional scale factor for T-grid"
+	double e2u(time_counter, y, x) ;
+  "meridional scale factor for U-grid"
+	double e2v(time_counter, y, x) ;
+  "meridional scale factor for V-grid"
+	double e2f(time_counter, y, x) ;
+  "meridional scale factor for F-grid"
+	double ff_f(time_counter, y, x) ;
+  "Coriolis parameter for grid-F" 
+	double ff_t(time_counter, y, x) ;
+  "Coriolis parameter for grid-T" 
+	int mbathy(time_counter, y, x) ;
+	int misf(time_counter, y, x) ;
+	double e3t_1d(time_counter, nav_lev) ;
+	double e3w_1d(time_counter, nav_lev) ;
+	double e3t_0(time_counter, nav_lev, y, x) ;
+	double e3u_0(time_counter, nav_lev, y, x) ;
+	double e3v_0(time_counter, nav_lev, y, x) ;
+	double e3f_0(time_counter, nav_lev, y, x) ;
+	double e3w_0(time_counter, nav_lev, y, x) ;
+	double e3uw_0(time_counter, nav_lev, y, x) ;
+	double e3vw_0(time_counter, nav_lev, y, x) ;
+	double gdept_1d(time_counter, nav_lev) ;
+	double gdepw_1d(time_counter, nav_lev) ;
+	double gdept_0(time_counter, nav_lev, y, x) ;
+	double gdepw_0(time_counter, nav_lev, y, x) ;
+
