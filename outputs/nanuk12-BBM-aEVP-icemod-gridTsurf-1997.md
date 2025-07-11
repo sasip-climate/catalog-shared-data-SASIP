@@ -506,9 +506,11 @@ variables:
 	double ff_t(time_counter, y, x) ;
   "Coriolis parameter for grid-T" 
 	int mbathy(time_counter, y, x) ;
-	int misf(time_counter, y, x) ;
+  "last ocean level at each point of the horizontal grid"
 	double e3t_1d(time_counter, nav_lev) ;
+  "vertical scale factor for T-grid"
 	double e3w_1d(time_counter, nav_lev) ;
+  "vertical scale factor for W-grid"
 	double e3t_0(time_counter, nav_lev, y, x) ;
 	double e3u_0(time_counter, nav_lev, y, x) ;
 	double e3v_0(time_counter, nav_lev, y, x) ;
@@ -517,7 +519,9 @@ variables:
 	double e3uw_0(time_counter, nav_lev, y, x) ;
 	double e3vw_0(time_counter, nav_lev, y, x) ;
 	double gdept_1d(time_counter, nav_lev) ;
+  "vertical depth factor for T-grid"
 	double gdepw_1d(time_counter, nav_lev) ;
+  "vertical depth factor for T-grid"
 	double gdept_0(time_counter, nav_lev, y, x) ;
 	double gdepw_0(time_counter, nav_lev, y, x) ;
 
