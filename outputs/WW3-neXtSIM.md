@@ -2,8 +2,8 @@
 
 ## Update 2025
 
-Outputs from 2018 to 2022 : https://doi.org/10.11582/2025.ffmc0pcm
-Associated paper available at : https://doi.org/10.1098/rsta.2021.0262
+ - Outputs from 2018 to 2022 : https://doi.org/10.11582/2025.ffmc0pcm
+ - Associated paper available at : https://doi.org/10.1098/rsta.2021.0262
 
 
 ## Old version
