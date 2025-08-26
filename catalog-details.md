@@ -65,10 +65,27 @@ Here you will find a list of datasets that can be useful to SASIP participants a
 ### Model outputs
 
 <details>
+  <summary><strong>neXtSIM runs</strong></summary>
+
+  - [Antarctic run](https://zenodo.org/records/12770130)
+  
+</details>
+
+<details>
   <summary><strong>OPA-neXtSIM coupled runs</strong></summary>
 
   - [CREG025_NXS-LBC400](outputs/OPA-neXtSIM_CREG025.md)
   - [OPA-neXtSIM_CREG025-ILBOXE140](outputs/OPA-neXtSIM_CREG025.md)
+
+</details>
+
+<details>
+  <summary><strong>OPA - SI3 runs </strong></summary>
+
+  - [BBM run, sea-ice variables](https://www.seanoe.org/data/00962/107357/)
+  - [BBM run, ocean variables](https://www.seanoe.org/data/00964/107591/)
+  - [EVP run, sea-ice variables](https://www.seanoe.org/data/00964/107587/)
+  - [EVP run, ocean variables](https://www.seanoe.org/data/00964/107590/)
 
 </details>
 
