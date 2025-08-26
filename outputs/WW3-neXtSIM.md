@@ -1,6 +1,13 @@
 # WW3
 
-Output of the WaveWatch3 model for the Arctic region at 25km resolution, from Octobre 2018 to November 2019
+## Update 2025
+
+Outputs from 2018 to 2022 : https://doi.org/10.11582/2025.ffmc0pcm
+Associated paper available at : https://doi.org/10.1098/rsta.2021.0262
+
+
+## Old version
+Output of the WaveWatch3 model for the Arctic region at 25km resolution, 3-hourly snapshots, from Octobre 2018 to November 2019
 
 Available on SUMMER at : `model-outputs/WW3-neXtSIM` or [directly on the opendap for download only](https://ige-meom-opendap.univ-grenoble-alpes.fr/thredds/catalog/meomopendap/extract/SASIP/model-outputs/WW3-neXtSIM/catalog.html)
 
